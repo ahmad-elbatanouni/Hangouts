@@ -1,0 +1,32 @@
+{
+  "name": "Hangouts",
+  "version": "1.0.0",
+  "description": "A google-Hangouts like application depending on the peer-to-peer topology provided by WebRTC",
+  "keywords": [
+    "Hangouts",
+    "WebRTC",
+    "Node.js"
+  ],
+  "author": {
+    "name": "Ahmad ElBatanouni",
+    "email": "egyptstyles1@gmail.com",
+    "url": "http://www.ds-ahmadfci.rhcloud.com"
+  },
+  "homepage": "http://www.ds-ahmadfci.rhcloud.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/secret-garden/Hangouts"
+  },
+
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+
+  "dependencies": {
+    "express": "~3.4.4"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "main": "server.js"
+}
